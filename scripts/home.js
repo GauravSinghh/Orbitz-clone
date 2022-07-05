@@ -7,6 +7,7 @@
 import {navbar} from "../components/navbar.js"
 document.getElementById("navbar").innerHTML = navbar();
 
+document.body.style.zoom="90%"
 
 let username= JSON.parse(localStorage.getItem("name"))||"Sign in"
 console.log(username)
