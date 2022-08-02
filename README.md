@@ -1,5 +1,5 @@
-https://github.com/GauravSinghh/Orbitz-clone
-Orbitz-clone | This project is about the clone of Orbitz.com, collaboratively completed by 6 team members mentioned below. Here, you can see how you can book your stay and all the functionality of the site
+# Orbitz-clone
+This project is about the clone of Orbitz.com, collaboratively completed by 6 team members mentioned below. Here, you can see how you can book your stay and all the functionality of the site
 
 
 
