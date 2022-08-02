@@ -1,7 +1,7 @@
 # Orbitz-clone
 This project is about the clone of Orbitz.com, collaboratively completed by 6 team members mentioned below. Here, you can see how you can book your stay and all the functionality of the site
 
-
+Team Presentation link - https://drive.google.com/file/d/1-8K42Dxpx2gp-FRQG3zRsdpCOrJ-PI7y/view?usp=sharing
 
 Team Members
 1. Priya Reddy      https://www.linkedin.com/in/priya-reddy-376738224/
