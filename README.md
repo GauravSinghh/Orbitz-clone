@@ -1,11 +1,13 @@
 # Orbitz-clone
 This project is about the clone of Orbitz.com, collaboratively completed by 6 team members mentioned below. Here, you can see how you can book your stay and all the functionality of the site
 
-Project Live Link: https://gauravsinghh.github.io/Orbitz-clone/
+## Project Live Link:
+ <a href="https://gauravsinghh.github.io/Orbitz-clone/">**Live Link** </a>
 
-Team Presentation link - https://drive.google.com/file/d/1-8K42Dxpx2gp-FRQG3zRsdpCOrJ-PI7y/view?usp=sharing
+## Team Presentation link : 
+<a href="https://drive.google.com/file/d/1-8K42Dxpx2gp-FRQG3zRsdpCOrJ-PI7y/view?usp=sharing">**Video link** </a>
 
-Team Members with responsibilities:
+## Team Members with responsibilities:
 1. Priya Reddy      https://www.linkedin.com/in/priya-reddy-376738224/ 
   CheckOut page
   
